@@ -1,6 +1,8 @@
 ### Welcome 👾
 
-I'm a final year theoretical physics student at Trinity College Dublin looking to improve my programming skills 🦾.
+I'm a final year theoretical physics student at Trinity College Dublin.
+
+🦾
 
 
 <!--
