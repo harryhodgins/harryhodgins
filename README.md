@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome 👾
+
+I'm a final year theoretical physics student at Trinity College Dublin looking to improve my programming skills 🦾.
+
 
 <!--
 **harryhodgins/harryhodgins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
