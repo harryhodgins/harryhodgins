@@ -1,6 +1,8 @@
 ### Welcome 👾
 
-I'm a final year theoretical physics student at Trinity College Dublin.
+I used to be a theoretical physics student at Trinity College Dublin.
+
+I'll be starting a masters in high performance computing in September, also in TCD.
 
 🦾
 
