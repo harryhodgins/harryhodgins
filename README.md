@@ -2,7 +2,7 @@
 
 I used to be a theoretical physics student at Trinity College Dublin.
 
-I'll be starting a masters in high performance computing in September, also in TCD.
+I'll be starting a masters in high performance computing in September in TCD.
 
 🦾
 
