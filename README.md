@@ -4,7 +4,7 @@ I used to be a theoretical physics student at Trinity College Dublin.
 
 I recently graduated from a masters in high performance computing, also at TCD.
 
-I currently work as a statistician at the Central Statistics Office in Dublin.
+I currently work as a applcation developer in Citi.
 
 
 
